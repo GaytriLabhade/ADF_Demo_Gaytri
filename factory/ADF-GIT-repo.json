@@ -1,0 +1,9 @@
+{
+	"name": "ADF-GIT-repo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8ed1e938-8735-413c-8406-0a3c93a30f6a",
+		"tenantId": "b525456d-0b92-4400-9c6a-ccced0bf5a0a"
+	}
+}
